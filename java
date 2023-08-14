@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int[] inputs = {4,10,15,40 };
+        int[] inputs = {4,10,20,30};
 
         for (int input : inputs) {
             try {
